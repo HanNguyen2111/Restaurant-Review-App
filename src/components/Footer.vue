@@ -1,0 +1,85 @@
+<template>
+  <footer class="footer bg-dark text-light mt-4 py-4">
+    <div class="container">
+      <div class="row">
+        <!-- Brand Section -->
+        <div class="col-md-4 mb-4">
+          <h5 class="text-uppercase">Foodie Review</h5>
+          <p class="small">
+            Discover the best places to eat in your city with user reviews and recommendations.
+          </p>
+        </div>
+
+        <!-- Quick Links Section -->
+        <div class="col-md-4 mb-4">
+          <h5 class="text-uppercase">Quick Links</h5>
+          <ul class="list-unstyled">
+            <li><router-link to="/home" class="footer-link">Home</router-link></li>
+            <li><router-link to="/restaurants" class="footer-link">Restaurants</router-link></li>
+            <li><router-link to="/news" class="footer-link">News</router-link></li>
+            <li><router-link to="/about" class="footer-link">About</router-link></li>
+          </ul>
+        </div>
+
+        <!-- Social Media Section -->
+        <div class="col-md-4 mb-4">
+          <h5 class="text-uppercase">Follow Us</h5>
+          <div class="d-flex gap-3">
+            <a href="#" class="footer-icon"><i class="bi bi-facebook"></i></a>
+            <a href="#" class="footer-icon"><i class="bi bi-twitter"></i></a>
+            <a href="#" class="footer-icon"><i class="bi bi-instagram"></i></a>
+          </div>
+        </div>
+      </div>
+
+      <hr class="border-light" />
+
+      <!-- copyright -->
+      <div class="text-center small">
+        <p class="mb-1">&copy; {{ currentYear }} Foodie Review. All rights reserved.</p>
+        <p>Created for Interface Design and Development (COS30043)</p>
+      </div>
+    </div>
+  </footer>
+</template>
+
+<script>
+export default {
+  name: 'AppFooter',
+  computed: {
+    currentYear() {
+      return new Date().getFullYear()
+    }
+  }
+}
+</script>
+
+<style scoped>
+.footer {
+  font-size: 0.9rem;
+}
+
+.footer-link {
+  color: #bbb;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.footer-icon {
+  color: #bbb;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+
+.footer-icon:hover {
+  color: #fff;
+}
+
+hr {
+  border-color: rgba(255, 255, 255, 0.2);
+}
+</style>

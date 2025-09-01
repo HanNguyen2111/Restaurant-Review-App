@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "date": "2025-05-01",
+    "title": "New Vegan Menu Launched",
+    "content": "Our restaurant now offers a full vegan menu featuring locally sourced ingredients.",
+    "category": "Menu"
+  },
+  {
+    "id": 2,
+    "date": "2025-05-02",
+    "title": "Live Jazz Nights Every Friday",
+    "content": "Enjoy smooth live jazz music every Friday night from 7PM to 10PM.",
+    "category": "Events"
+  },
+  {
+    "id": 3,
+    "date": "2025-05-03",
+    "title": "Mother's Day Special Set Menu",
+    "content": "Celebrate Mother's Day with a special 3-course set menu for only $39.95.",
+    "category": "Promotion"
+  },
+  {
+    "id": 4,
+    "date": "2025-05-04",
+    "title": "Staff Spotlight: Meet Chef Anna",
+    "content": "This week we’re spotlighting Chef Anna and her culinary journey.",
+    "category": "Staff"
+  },
+  {
+    "id": 5,
+    "date": "2025-05-05",
+    "title": "Extended Opening Hours",
+    "content": "We’re now open until 11PM on weekends to serve you better.",
+    "category": "Announcement"
+  },
+  {
+    "id": 6,
+    "date": "2025-05-06",
+    "title": "Customer Appreciation Week",
+    "content": "Get a free dessert with every main course during Customer Appreciation Week.",
+    "category": "Promotion"
+  },
+  {
+    "id": 7,
+    "date": "2025-05-07",
+    "title": "Health and Safety Update",
+    "content": "Read about our enhanced hygiene practices to keep you safe.",
+    "category": "Health"
+  },
+  {
+    "id": 8,
+    "date": "2025-05-08",
+    "title": "Booking System Upgraded",
+    "content": "Our online booking system is now faster and easier to use.",
+    "category": "Tech"
+  },
+  {
+    "id": 9,
+    "date": "2025-05-09",
+    "title": "Summer Drinks Are Here!",
+    "content": "Cool off with our new line of handcrafted summer beverages.",
+    "category": "Menu"
+  },
+  {
+    "id": 10,
+    "date": "2025-05-10",
+    "title": "New Parking Arrangements",
+    "content": "We now have more parking spots available behind the building.",
+    "category": "Announcement"
+  },
+  {
+    "id": 11,
+    "date": "2025-05-11",
+    "title": "Chef's Table Experience",
+    "content": "Reserve an exclusive seat at our Chef’s Table this weekend.",
+    "category": "Events"
+  },
+  {
+    "id": 12,
+    "date": "2025-05-12",
+    "title": "Now Hiring Front-of-House Staff",
+    "content": "We’re expanding our team — apply now to join our front-of-house crew.",
+    "category": "Job"
+  },
+  {
+    "id": 13,
+    "date": "2025-05-13",
+    "title": "Food Waste Reduction Initiative",
+    "content": "Learn about how we’re cutting food waste through composting and donations.",
+    "category": "Sustainability"
+  },
+  {
+    "id": 14,
+    "date": "2025-05-14",
+    "title": "Kids Eat Free Tuesdays",
+    "content": "Every Tuesday, kids under 10 eat free with a paying adult.",
+    "category": "Promotion"
+  },
+  {
+    "id": 15,
+    "date": "2025-05-15",
+    "title": "Online Ordering Now Available",
+    "content": "Order your favourites online for pickup or delivery!",
+    "category": "Tech"
+  }
+]

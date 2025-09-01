@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": 1,
+    "restaurant_id": 1,
+    "user": "Alice",
+    "comment": "Classic Melbourne experience, great coffee!",
+    "rating": 5,
+    "date": "2025-05-01"
+  },
+  {
+    "review_id": 2,
+    "restaurant_id": 1,
+    "user": "Bob",
+    "comment": "Loved the pasta. Very authentic.",
+    "rating": 4,
+    "date": "2025-05-03"
+  },
+  {
+    "review_id": 3,
+    "restaurant_id": 2,
+    "user": "Charlie",
+    "comment": "Always busy, but worth the wait. Amazing food!",
+    "rating": 5,
+    "date": "2025-04-28"
+  },
+  {
+    "review_id": 4,
+    "restaurant_id": 4,
+    "user": "Diana",
+    "comment": "Truly a 5-star experience. Impeccable service and food.",
+    "rating": 5,
+    "date": "2025-05-10"
+  },
+  {
+    "review_id": 5,
+    "restaurant_id": 5,
+    "user": "Ethan",
+    "comment": "Best pasta in town, hands down.",
+    "rating": 5,
+    "date": "2025-05-12"
+  }
+]
